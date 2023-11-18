@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E7C0D842-EB4B-4346-B7EA-9182F165B450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdessoWorldLeague.API", "src\AdessoWorldLeague.API\AdessoWorldLeague.API.csproj", "{22B5D874-4DD5-4BF9-8F28-4A36C961CC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B5D874-4DD5-4BF9-8F28-4A36C961CC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B5D874-4DD5-4BF9-8F28-4A36C961CC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B5D874-4DD5-4BF9-8F28-4A36C961CC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B5D874-4DD5-4BF9-8F28-4A36C961CC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD4C5CF-6F5D-4E79-9CFA-EEA1E2C60FDB}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22B5D874-4DD5-4BF9-8F28-4A36C961CC22} = {E7C0D842-EB4B-4346-B7EA-9182F165B450}
+	EndGlobalSection
+EndGlobal
